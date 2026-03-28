@@ -560,7 +560,7 @@
   [[网站](https://animeko.org/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/open-ani/animeko?style=flat"></sub>
 
-  集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform，支持云同步观看记录 (Bangumi)。
+  集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform，支持云同步观看记录 (Bangumi)。
 
 - [Kazumi](https://github.com/Predidit/Kazumi)
   [[F-Droid](https://f-droid.org/packages/com.predidit.kazumi)]
@@ -587,7 +587,7 @@
   [[F-Droid](https://f-droid.org/packages/org.krita/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/krita?style=flat"></sub>
 
-  Note: android version of krita is optimized only for tablets and may behave poorly on phone screens. 
+  注意：安卓版 Krita 仅针对平板电脑进行了优化，在手机屏幕上可能表现不佳。
 
 - _[PixaPencil](https://github.com/tomdoeslinux/PixaPencil)
   [[F-Droid](https://f-droid.org/packages/com.therealbluepandabear.pixapencil/)]
@@ -688,6 +688,8 @@
   [[F-Droid（Aves Libre）](https://f-droid.org/packages/deckers.thibault.aves.libre/)]
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deckerst/aves?style=flat"></sub>
+
+  Aves 能够处理各种图片和视频，不仅包括常见的 JPEG 和 MP4 格式，还支持多页 TIFF、SVG、旧式 AVI 等更为特殊的格式。
 
 ### 日常工具
 
@@ -977,7 +979,7 @@
   [[F-Droid](https://f-droid.org/packages/net.cozic.joplin/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laurent22/joplin?style=flat"></sub>
 
-  笔记应用：支持Markdown、"offline first" but can be securely synchronised using end-to-end encryption with various cloud services including Nextcloud, Dropbox, OneDrive, available for Windows, Linux, macOS, Android and iOS.
+  笔记应用：支持Markdown、"offline first" 但可以通过端到端加密与各种云服务（包括 Nextcloud、Dropbox、OneDrive）进行安全同步，支持 Windows、Linux、macOS、Android 和 iOS 平台。
 
 - [Notally](https://github.com/OmGodse/Notally)
   [[F-Droid](https://f-droid.org/packages/com.omgodse.notally/)]
@@ -1051,7 +1053,7 @@
   [[网站](https://readest.com/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/readest/readest?style=flat"></sub>
 
-  A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access（macOS, Windows, Linux, Android, iOS, and the Web）
+  界面美观的电子书阅读软件，提供无缝的跨平台访问（支持 macOS、Windows、Linux、Android、iOS 以及网页端）
 
 <details>
 
@@ -1214,7 +1216,7 @@
   [[网站](https://android.kiwix.org/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kiwix/kiwix-android?style=flat"></sub>
 
-  Kiwix是一個網路內容的離線閱讀器，這款軟體開發的目的是能夠在離線狀況使用維基百科。
+  Kiwix是一个网路内容的离线阅读器，主要目的是在离线状况使用维基百科。
 
 #### 星图
 
@@ -1554,7 +1556,7 @@
   [[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/proninyaroslav/libretorrent?style=flat"></sub>
 
-  Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
+  一款免费开源的 Android 全能 torrent 客户端。镜像自：https://gitlab.com/proninyaroslav/libretorrent
 
 #### 备份
 
